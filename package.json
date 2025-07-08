@@ -1,0 +1,38 @@
+{
+  "name": "vue-calendar-app",
+  "version": "1.0.0",
+  "description": "Vue3 日曆網頁應用程式，整合 Google 登入與天氣功能",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "vue3",
+    "calendar",
+    "google-auth",
+    "weather"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.18",
+    "@fullcalendar/daygrid": "^6.1.18",
+    "@fullcalendar/google-calendar": "^6.1.18",
+    "@fullcalendar/interaction": "^6.1.18",
+    "@fullcalendar/timegrid": "^6.1.18",
+    "@fullcalendar/vue3": "^6.1.18",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "axios": "^1.10.0",
+    "bootstrap": "^5.3.7",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.10.3",
+    "google-auth-library": "^10.1.0",
+    "googleapis": "^150.0.1",
+    "pinia": "^3.0.3",
+    "vite": "^6.3.5",
+    "vue": "^3.5.17",
+    "vue-router": "^4.5.1"
+  }
+}

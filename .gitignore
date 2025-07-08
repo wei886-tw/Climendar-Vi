@@ -1,0 +1,5 @@
+node_modules
+
+*. GOOGLE_OAUTH_SETUP.md
+*. claude/
+*. .env
