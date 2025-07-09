@@ -1,6 +1,6 @@
 node_modules
 
-.env
-.env.example
-google_oauth_setup.md
+*. GOOGLE_OAUTH_SETUP.md
 *. claude/
+*. .env.claude
+.env
